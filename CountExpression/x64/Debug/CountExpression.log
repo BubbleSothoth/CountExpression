@@ -1,0 +1,24 @@
+﻿  CountExpression.cpp
+F:\project\CountExpression\CountExpression.cpp(4,9): warning C4603: “__DLL_EXPORTS__”: 未定义宏或在预编译头使用后定义发生改变
+  (编译源文件“/CountExpression.cpp”)
+      F:\project\CountExpression\CountExpression.cpp(4,9):
+      将宏添加到预编译头中，而不是在此处定义
+      F:\project\CountExpression\CountExpression.cpp(6,1):
+      使用预编译头
+  
+F:\project\CountExpression\CountExpression.cpp(58,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CountExpression.cpp”)
+  
+F:\project\CountExpression\CountExpression.cpp(58,49): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CountExpression.cpp”)
+  
+F:\project\CountExpression\CountExpression.cpp(70,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CountExpression.cpp”)
+  
+F:\project\CountExpression\CountExpression.cpp(70,49): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CountExpression.cpp”)
+  
+F:\project\CountExpression\CountExpression.cpp(80,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CountExpression.cpp”)
+  
+  CountExpression.vcxproj -> F:\project\CountExpression\x64\Debug\CountExpression.lib
